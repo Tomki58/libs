@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/projects/Lab1_MMPS/build",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\LAB1_MMPS.dir\\src\\source.cpp.obj -c C:\\projects\\Lab1_MMPS\\src\\source.cpp",
+  "file": "C:/projects/Lab1_MMPS/src/source.cpp"
+},
+{
+  "directory": "C:/projects/Lab1_MMPS/build/EulerMethod",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  -Deuler_EXPORTS  -g   -o CMakeFiles\\euler.dir\\src\\func.cpp.obj -c C:\\projects\\Lab1_MMPS\\EulerMethod\\src\\func.cpp",
+  "file": "C:/projects/Lab1_MMPS/EulerMethod/src/func.cpp"
+},
+{
+  "directory": "C:/projects/Lab1_MMPS/build/Runge_KuttaMethod",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  -Drunge_kutta_EXPORTS  -g   -o CMakeFiles\\runge_kutta.dir\\src\\func.cpp.obj -c C:\\projects\\Lab1_MMPS\\Runge_KuttaMethod\\src\\func.cpp",
+  "file": "C:/projects/Lab1_MMPS/Runge_KuttaMethod/src/func.cpp"
+}
+]

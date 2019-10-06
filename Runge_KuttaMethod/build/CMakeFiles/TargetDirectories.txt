@@ -1,0 +1,3 @@
+C:/projects/Lab1_MMPS/Runge_KuttaMethod/build/CMakeFiles/runge_kutta.dir
+C:/projects/Lab1_MMPS/Runge_KuttaMethod/build/CMakeFiles/edit_cache.dir
+C:/projects/Lab1_MMPS/Runge_KuttaMethod/build/CMakeFiles/rebuild_cache.dir
